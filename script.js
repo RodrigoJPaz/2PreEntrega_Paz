@@ -187,6 +187,6 @@ function confirmacionCompra(producto){
 }
 
 function consultarSaldo(){
-  alert("Saldo Actual: " + carrito1.saldo + "creditos!")
+  alert("Saldo Actual: " + carrito1.saldo + " creditos!")
   console.log("Saldo: " + carrito1.saldo + "creditos!")
 }
